@@ -1,4 +1,4 @@
-# DOM Editing Lab
+htt# DOM Editing Lab
 
 ## Learning Goals
 
@@ -79,7 +79,7 @@ working in, run `open index.html` to open up a copy of the file in your browser.
 
 If you are working in the in-browser IDE, type `httpserver` from the console to 
 start up a temporary web server, and copy the URL provided into the browser's URL
-bar to view `index.html`.
+bar to hview `index.html`.
 
 Just to speed things up a bit, paste the following code into `index.html`:
 
